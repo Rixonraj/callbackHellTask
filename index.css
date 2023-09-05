@@ -1,0 +1,14 @@
+.val {
+    color: blue;
+    display: flex;
+    padding-top: 287px;
+    justify-content: center;
+}
+
+.maindiv {
+    /* height: auto; */
+    height: 644px !important;
+
+    background-color: red;
+    background-image: linear-gradient(rgb(255, 77, 0), white, green);
+}
